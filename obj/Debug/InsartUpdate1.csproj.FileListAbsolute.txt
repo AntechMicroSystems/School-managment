@@ -1,0 +1,8 @@
+C:\Users\Antech\source\repos\InsartUpdate1\bin\Debug\InsartUpdate1.exe.config
+C:\Users\Antech\source\repos\InsartUpdate1\bin\Debug\InsartUpdate1.exe
+C:\Users\Antech\source\repos\InsartUpdate1\bin\Debug\InsartUpdate1.pdb
+C:\Users\Antech\source\repos\InsartUpdate1\obj\Debug\InsartUpdate1.csprojResolveAssemblyReference.cache
+C:\Users\Antech\source\repos\InsartUpdate1\obj\Debug\InsartUpdate1.Properties.Resources.resources
+C:\Users\Antech\source\repos\InsartUpdate1\obj\Debug\InsartUpdate1.csproj.GenerateResource.Cache
+C:\Users\Antech\source\repos\InsartUpdate1\obj\Debug\InsartUpdate1.exe
+C:\Users\Antech\source\repos\InsartUpdate1\obj\Debug\InsartUpdate1.pdb
